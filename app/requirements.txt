@@ -1,0 +1,13 @@
+# The starter server itself needs nothing beyond the standard library.
+# Add whatever your model needs, e.g.:
+#   transformers>=4.44
+#   pillow>=10.0
+pymupdf
+python-docx
+openpyxl
+pillow
+rank-bm25
+accelerate
+transformers
+qwen-vl-utils
+torchvision

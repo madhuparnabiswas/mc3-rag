@@ -9,5 +9,4 @@ pillow
 rank-bm25
 accelerate
 transformers
-qwen-vl-utils
-torchvision
+qwen-vl-utils 
